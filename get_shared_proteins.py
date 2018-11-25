@@ -21,7 +21,7 @@ for i in input.readlines():
 		output.write("ortholog_group\t"+ line +"\n")
 	else:
 		tally +=1
-		if tabs[0] == "3":
+		if int(tabs[0]) == len(tabs)-3:
 			all3 +=1
 
 		cluster_name = "cluster_"+str(tally)	
