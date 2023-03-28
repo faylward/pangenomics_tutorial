@@ -1,0 +1,5 @@
+==> SYSB3036_pangenomics_homework/OrthoFinder/Results_Mar28/Orthogroups/Orthogroups.tsv <==
+Orthogroup	NC_001132.2_Myxoma_virus.fna	NC_001266.1_Rabbit_fibroma_virus.fna	NC_001611.1_Variola_virus.fna	NC_002188.1_Fowlpox_virus.fna	NC_003389.1_Swinepox_virus.fna	NC_006966.1_Deerpox_virus_W-848-83.fna	NC_023426.1_Anomala_cuprea_entomopoxvirus_DNA.fna
+
+==> SYSB3036_pangenomics_homework/OrthoFinder/Results_Mar28/Orthogroups/Orthogroups_UnassignedGenes.tsv <==
+Orthogroup	NC_001132.2_Myxoma_virus.fna	NC_001266.1_Rabbit_fibroma_virus.fna	NC_001611.1_Variola_virus.fna	NC_002188.1_Fowlpox_virus.fna	NC_003389.1_Swinepox_virus.fna	NC_006966.1_Deerpox_virus_W-848-83.fna	NC_023426.1_Anomala_cuprea_entomopoxvirus_DNA.fna
